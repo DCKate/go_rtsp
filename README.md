@@ -1,4 +1,4 @@
-# Test fixed go with C lib
+# Test mixed go with C lib
 ---
 ## About
 * Read h264 raw frame from file, and send by rtsp.
