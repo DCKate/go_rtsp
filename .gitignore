@@ -1,0 +1,13 @@
+.*
+!.gitignore
+
+*.o
+*.a
+*.264
+*.ts
+*.aac
+
+bin/
+lib/
+include/
+
